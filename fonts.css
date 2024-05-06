@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'LexendDeca';
+  src: url('./fonts/LexendDeca.ttf') format('truetype'),
+       url('./fonts/LexendDeca.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'BigShouldersDisplay';
+  src: url('./fonts/BigShouldersDisplay.ttf') format('truetype'),
+       url('./fonts/BigShouldersDisplay.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
