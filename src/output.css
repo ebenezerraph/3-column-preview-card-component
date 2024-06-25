@@ -1,5 +1,5 @@
 /*
-! tailwindcss v3.4.3 | MIT License | https://tailwindcss.com
+! tailwindcss v3.4.4 | MIT License | https://tailwindcss.com
 */
 
 /*
@@ -568,6 +568,14 @@ video {
   margin-top: 1rem;
 }
 
+.mb-2 {
+  margin-bottom: 0.5rem;
+}
+
+.mb-2\.5 {
+  margin-bottom: 0.625rem;
+}
+
 .box-border {
   box-sizing: border-box;
 }
@@ -588,12 +596,21 @@ video {
   min-height: 100vh;
 }
 
+.min-h-\[25rem\] {
+  min-height: 25rem;
+}
+
 .w-1\/2 {
   width: 50%;
 }
 
 .w-80 {
   width: 20rem;
+}
+
+.min-w-max {
+  min-width: -moz-max-content;
+  min-width: max-content;
 }
 
 .cursor-pointer {
@@ -683,6 +700,31 @@ video {
   padding-bottom: 2.5rem;
 }
 
+.py-12 {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+.px-10 {
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
+}
+
+.px-11 {
+  padding-left: 2.75rem;
+  padding-right: 2.75rem;
+}
+
+.px-1 {
+  padding-left: 0.25rem;
+  padding-right: 0.25rem;
+}
+
+.px-12 {
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+
 .text-center {
   text-align: center;
 }
@@ -708,6 +750,24 @@ video {
 .text-xs {
   font-size: 0.75rem;
   line-height: 1rem;
+}
+
+.text-5xl {
+  font-size: 3rem;
+  line-height: 1;
+}
+
+.text-4xl {
+  font-size: 2.25rem;
+  line-height: 2.5rem;
+}
+
+.font-bold {
+  font-weight: 700;
+}
+
+.font-black {
+  font-weight: 900;
 }
 
 .uppercase {
@@ -739,6 +799,10 @@ video {
   color: rgb(0 66 65 / var(--tw-text-opacity));
 }
 
+.opacity-50 {
+  opacity: 0.5;
+}
+
 .hover\:bg-brightorange:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(227 136 38 / var(--tw-bg-opacity));
@@ -766,6 +830,10 @@ video {
 
   .md\:h-\[30rem\] {
     height: 30rem;
+  }
+
+  .md\:min-h-\[30rem\] {
+    min-height: 30rem;
   }
 
   .md\:flex-row {
