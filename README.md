@@ -45,7 +45,7 @@ Users should be able to:
 
 ### What I learned
 
-I used this challenge as an opportunity to learn TailwindCSS and practice alongside. Although I faced a couple of challenges, I was able to overcome them, and I believe that this experience helped me to solidify my knowledge.
+I used this challenge as an opportunity to learn TailwindCSS and practice alongside. Although I faced a couple of challenges, I overcame them, and I believe this has helped me to solidify my knowledge.
 
 ### Continued development
 
@@ -59,4 +59,4 @@ I would like to use TailwindCSS for all of my future solutions.
 
 - Website - [Ebenezer Raphael](https://ebenezerraph.wordpress.com)
 - Frontend Mentor - [@ebenezerraph](https://www.frontendmentor.io/profile/ebenezerraph)
-- Twitter - [@ebenezerraph](https://www.twitter.com/ebenezerraph)
+- X - [@ebenezerraph](https://www.x.com/ebenezerraph)
